@@ -6,7 +6,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '93652bba-e7ff-4624-8977-755c3a8e2cc7';
 
-let proxyIP = '';// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。'cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org'
+let proxyIP = 'proxyip.us.fxxk.dedyn.io ';// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。'cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org'
 
 //let sub = '';// 留空则显示原版内容
 let sub = 'vpn2.853977546.xyz';// 内置优选订阅生成器，可自行搭建 《https://github.com/cmliu/WorkerVless2sub》
